@@ -1,1 +1,2 @@
+[![Waffle.io - Issues in progress](https://badge.waffle.io/MaximiliamKarlsson/CodeZorex.png?label=in%20progress&title=In%20Progress)](https://waffle.io/MaximiliamKarlsson/CodeZorex?utm_source=badge)
 # CodeZorex
